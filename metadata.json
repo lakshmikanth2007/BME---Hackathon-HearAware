@@ -1,0 +1,6 @@
+{
+  "name": "HearAware",
+  "description": "Situational awareness and sensory substitution platform for Blind and Deaf users, featuring sensor fusion, intelligent relevance filtering, and multimodal alerts.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
